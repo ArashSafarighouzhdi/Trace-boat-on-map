@@ -17,7 +17,6 @@
 # Description
 
 Display the location of a boat in real-time with additional information on OpenStreetMap.
-Allow users to zoom in/out and pan across the map.
 
 Real-Time Data Visualization:
 
