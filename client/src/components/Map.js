@@ -28,8 +28,7 @@ const Map = () => {
       };
 
       setpPosition(newPosition);
-     }
-    console.log('newposition', val);
+     };
   }, [val]);
 
   return (
