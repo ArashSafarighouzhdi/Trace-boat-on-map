@@ -32,11 +32,11 @@ Display basic information about the boat (e.g., name, shipid) when clicked.
 
 # Run
 
-## Server:
+### Server:
 In the project directory, you can run:
 #### node index.js
 
-## Client:
+### Client:
 In the node directory, you can run:
 #### npm start
 
