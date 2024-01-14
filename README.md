@@ -66,3 +66,8 @@ OpenStreetMap APIs are used for the map.
 
 
 # Preview of the project
+
+![Optional Text](1.jpeg)
+
+![Optional Text](2.jpeg)
+
