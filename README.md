@@ -65,7 +65,7 @@ OpenStreetMap APIs are used for the map.
 
 # Preview of the project
 
-![Optional Text](1.jpeg)
+![1](https://github.com/ArashSafarighouzhdi/Trace-boat-on-map/assets/131522792/2acba91c-bc1d-4f6f-af47-3f10915b3dcc)
 
-![Optional Text](2.jpeg)
 
+![2](https://github.com/ArashSafarighouzhdi/Trace-boat-on-map/assets/131522792/907eaa8d-4fc8-4fc7-b3c9-7b5fbf0a52a6)
