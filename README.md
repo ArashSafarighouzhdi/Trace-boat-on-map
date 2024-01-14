@@ -28,7 +28,7 @@ Update the boat locations on the map in real-time.
 Display basic information about the boat (e.g., name, shipid) when clicked.
 
 # Demo
-![Optional Text](demo.mov)
+https://github.com/ArashSafarighouzhdi/Trace-boat-on-map/assets/131522792/93acc915-0a28-461f-97d4-f01004fce73a
 
 # Run
 
