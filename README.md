@@ -18,15 +18,14 @@
 
 # Description
 
-Integrate a map API (like Google Maps or OpenStreetMap).
-Display the location of a boat in real-time with additional information.
+Display the location of a boat in real-time with additional information on OpenStreetMap.
 Allow users to zoom in/out and pan across the map.
 
 Real-Time Data Visualization:
 
-Connect to API (https://aisstream.io/) that provides real-time data of boat the boat with MMSI 219230000 (like coordinates, speed, direction).
+Connect to API (https://aisstream.io/) that provides real-time data of boat the boat with MMSI 219230000.
 Update the boat locations on the map in real-time.
-Display basic information about the boat (e.g., name, size, type) when clicked.
+Display basic information about the boat (e.g., name, shipid) when clicked.
 
 # Demo
 
@@ -63,6 +62,7 @@ These packages are installed in this project:
 # APIs
 
 In this project, https://aisstream.io/ APIs are used to get boat information.
+OpenStreetMap APIs are used for the map.
 
 
 # Preview of the project
