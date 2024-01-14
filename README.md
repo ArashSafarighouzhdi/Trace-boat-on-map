@@ -28,7 +28,7 @@ Update the boat locations on the map in real-time.
 Display basic information about the boat (e.g., name, shipid) when clicked.
 
 # Demo
-
+![Optional Text](demo.mov)
 
 # Run
 
