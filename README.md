@@ -3,16 +3,14 @@
 # Contents
 
     1. Description
-
-    2. Demo
     
-    3. Run
+    2. Run
 
-    4. Packages
+    3. Packages
     
-    5. APIs
+    4. APIs
 
-    6. Preview of the project
+    5. Preview of the project
 
        
 
@@ -27,7 +25,7 @@ Connect to API (https://aisstream.io/) that provides real-time data of boat the 
 Update the boat locations on the map in real-time.
 Display basic information about the boat (e.g., name, shipid) when clicked.
 
-# Demo
+
 https://github.com/ArashSafarighouzhdi/Trace-boat-on-map/assets/131522792/93acc915-0a28-461f-97d4-f01004fce73a
 
 # Run
